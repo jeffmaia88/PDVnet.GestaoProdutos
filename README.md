@@ -2,10 +2,11 @@
 ## Aplicação desktop em C# com WPF e SQL Server para gestão de produtos em estoque.
 
 
-**Sistema desktop desenvolvido em C# com WPF e SQL Server para gerenciamento de produtos em estoque.
+### Sistema desktop desenvolvido em C# com WPF e SQL Server para gerenciamento de produtos em estoque.
+
 
 O objetivo do projeto é avaliar meus conhecimentos em C#, foi utilizado por mim aqui, 4 camadas (Model, Data, Business e UI), para separação de responsabilidades.
-Utilziei 3 ClassLibraries (Model, DATA,Business) e um projeto WPF (UI).
+Utilizei 3 ClassLibraries (Model, DATA,Business) e um projeto WPF (UI).
 
 - Segui exatamente a orientação de diretórios e nomenclaturas disponibilizado no PDF via e-mail.
 - Segui os requisitos obrigatórios e funcionalidades extras solicitadas, o Sistema implementa as funcionalidades de Adicionar, Editar, Excluir e Listar os rodutos em estoque.
@@ -48,7 +49,7 @@ O sistema foi desenvolvido para atender todos os requisitos obrigatórios solici
 
 ## Estrutura do Projeto
 
-Como mencioneia cima o projeto foi desenvolvido utilizando separação por camadas, para organizar o código e facilitar manutenção e entendimento do sistema.
+Como mencionei acima o projeto foi desenvolvido utilizando separação por camadas, para organizar o código e facilitar manutenção e entendimento do sistema.
 
 Abaixo estão as camadas e suas responsabilidades principais:
 
@@ -96,12 +97,11 @@ Se você utilizar outro servidor, usuário ou senha, basta ajustar os valores ac
 - Abra o projeto no Visual Studio 2022
 - Certifique-se de que o projeto PDVnet.GestaoProdutos.UI está definido como projeto de inicialização
 - A Tela principal MainWindow será carregada por padrão, exibindo o dashboard e alista de produtos.
-- 
 
 ## Considerações Finais
 
 Este projeto foi desenvolvido exclusivamente para esse processo seletivo para testar meus conhecimentos práticos em C#, WPF e SQL Server. 
-Independente do resultado, irei deixá-lo no meu portfolio pessoal, foi legal desenvolvê-lo nesses 4 dias. 
+Independente do resultado, irei deixá-lo no meu portfolio pessoal, foi legal desenvolvê-lo nesses 3 dias. 
 
 Procurei seguir ao máximo as instruções do PDF enviado, respeitando a estrutura de camadas e as nomenclaturas sugeridas.  
 Evitei o uso de bibliotecas externas, Frameworks ou recursos automáticos, priorizando código simples e legível.
@@ -113,8 +113,9 @@ O foco principal foi mostrar minha capacidade de entender o problema, planejar a
 
 ## Autor
 
-**Jefferson Reis**
-Desenvolvedor.Net — C#, SQL, ASPNET, WPF
-**Email:** [jefferson.reis88@gmail.com](mailto:jefferson.reis88@gmail.com) 
-**LinkedIn:** [linkedin.com/in/jefferson-maia88](https://www.linkedin.com/in/jefferson-maia88/) 
+
+**Jefferson Reis**  
+Desenvolvedor .NET — C#, SQL, ASP.NET, WPF  
+**Email:** [jefferson.reis88@gmail.com](mailto:jefferson.reis88@gmail.com)  
+**LinkedIn:** [linkedin.com/in/jefferson-maia88](https://www.linkedin.com/in/jefferson-maia88/)  
 **Portfólio:** [github.com/jeffmaia88](https://github.com/jeffmaia88)

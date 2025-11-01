@@ -1,0 +1,16 @@
+﻿CREATE DATABASE GestaoProdutosDB;
+GO
+
+USE GestaoProdutosDB;
+GO
+
+
+CREATE TABLE Produtos (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nome NVARCHAR(100) NOT NULL,
+    Descricao NVARCHAR(255) NULL,
+    Preco DECIMAL(10,2) NOT NULL,
+    Quantidade INT NOT NULL,
+    DataCadastro DATETIME NOT NULL DEFAULT GETDATE()
+);
+
